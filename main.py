@@ -16,7 +16,7 @@ pipe_svm = pickle.load(open('pipe_svm.pkl','rb'))
 pipe_gb = pickle.load(open('pipe_gb.pkl','rb'))
 pipe_ab = pickle.load(open('pipe_ab.pkl','rb'))
 pipe_xg= pickle.load(open('pipe_xg.pkl','rb'))
-df = pickle.load(open('df.pkl','rb'))
+#df = pickle.load(open('df.pkl','rb'))
 
 
 st.title("LAPTOP PRICE PREDICTOR")
